@@ -13,11 +13,16 @@ body{
 .box {
     flex: 1.2;
     width: 80%;
-  
     text-align: center;
-    font-family: "Walter Turncoat";
-    
     border: solid 3px black;
     background-color: rgba(255, 221, 0, 0.588);
+    
+  }
+.boxCharacter {
+    flex: 1.2;
+    width: 80%;
+    text-align: left;
+    border: solid 3px black;
+    background-color: rgba(52, 133, 255, 0.32);
     
   }
