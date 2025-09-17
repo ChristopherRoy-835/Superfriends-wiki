@@ -27,6 +27,8 @@ body{
     text-align: left;
     margin-top: 10px;
     font-size: 1em;
+    padding-left: 10px;
+    padding-right: 10px;
     padding-bottom: 15px;
     justify-content: center;
     border: solid 3px black;
