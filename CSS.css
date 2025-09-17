@@ -8,8 +8,7 @@ body{
 }
 .boxContainer {
     display: flex;
-    flex-direction: row;
-    margin: 0 auto;
+    justify-content: center;
   }
 .box {
     flex: 1.2;
