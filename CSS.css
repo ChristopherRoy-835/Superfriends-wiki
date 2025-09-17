@@ -9,10 +9,11 @@ body{
 
 .box {
     flex: 1.2;
-    
+    width: 50%;
+  
     text-align: justify;
     font-family: "Walter Turncoat";
-    padding: 15px;
+    
     border: solid 3px black;
     background-color: rgba(255, 221, 0, 0.588);
     
